@@ -7,5 +7,5 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: '/mrivaslezama.github.io/postreshelados',
 	integrations: [mdx(), sitemap()],
-	base: 'github.com/mrivaslezama/postreshelados',
+	base: '/postreshelados',
 });
