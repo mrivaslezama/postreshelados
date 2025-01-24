@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: '/mrivaslezama.github.io/postreshelados',
+	site: 'https://mrivaslezama.github.io',
 	integrations: [mdx(), sitemap()],
 	base: '/postreshelados',
 });

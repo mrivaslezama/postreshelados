@@ -14,6 +14,7 @@
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^5.1.8",
     "astro-bootstrap": "^0.7.0",
-    "preferred-pm": "^4.0.0"
+    "preferred-pm": "^4.0.0",
+    "typescript": "^4.9.4"
   }
 }
