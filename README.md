@@ -66,4 +66,12 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
 # postreshelados
+https://astro-bootstrap.github.io/components/components/carousel/
+
+https://astro-bootstrap.github.io/components/#sideUtilities
+
+/postreshelados/
+https://mrivaslezama.github.io/postreshelados/
+https://mrivaslezama.github.io/postreshelados/
